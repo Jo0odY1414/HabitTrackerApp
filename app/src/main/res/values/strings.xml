@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Habit Tracker App</string>
+
+    <string name="title">Title of the task</string>
+
+    <string name="due_date">Due Date</string>
+
+    <string name="hint_date">12/10/2017</string>
+
+    <string name="done">Done doing this task</string>
+</resources>
